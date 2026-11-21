@@ -27,7 +27,7 @@ class Program
         else if (hour < 18) greeting = "Доброго дня";
         else greeting = "Доброго вечора";
 
-        Console.WriteLine($"{greeting}, {name}!");
+        Console.WriteLine($"{greeting}, {name}! Радий тебе бачити.");
     }
 }
 
